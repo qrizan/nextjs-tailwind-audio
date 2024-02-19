@@ -21,3 +21,8 @@ npm run dev
 #### screenshot
 
 ![Point Of Sales](screenshot/music-player.png)
+
+
+#### demo
+
+https://nextjs-tailwind-audio.vercel.app/
